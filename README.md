@@ -3,7 +3,6 @@
 This is an interactive web application built with Streamlit for real-time breast cancer diagnosis. The app leverages machine learning to predict whether a tumor is benign or malignant based on its features. It also provides tools for exploratory data analysis, model comparison, and explainable AI to understand the predictions.
 
 ![App Screenshots](https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B136CFAA1-3A0D-4C64-A550-E02CDCA505D1%7D.png)
-![aa](https://github.com/belajdel/Breast-Cancer-Dignosis-!Machine-Learning-Project-/blob/main/images/%7B69D957DD-338B-4898-BE83-C9F5683220EB%7D.png)
 ---
 
 ## ✨ Features
