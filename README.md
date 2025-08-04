@@ -2,27 +2,14 @@
 
 This is an interactive web application built with Streamlit for real-time breast cancer diagnosis. The app leverages machine learning to predict whether a tumor is benign or malignant based on its features. It also provides tools for exploratory data analysis, model comparison, and explainable AI to understand the predictions.
 
-![App Screenshots](https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B136CFAA1-3A0D-4C64-A550-E02CDCA505D1%7D.png)
+##![App Screenshots](https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B136CFAA1-3A0D-4C64-A550-E02CDCA505D1%7D.png)
 ---
 
-## Images
+
 
 Here are some images related to the project:
 
-### Image 1
-<a href="https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B136CFAA1-3A0D-4C64-A550-E02CDCA505D1%7D.png">
-    <img src="https://raw.githubusercontent.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/main/images/%7B136CFAA1-3A0D-4C64-A550-E02CDCA505D1%7D.png" alt="Image 1" width="400" height="600">
-</a>
 
-### Image 2
-<a href="https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B3C7D2E19-2C7A-4F38-8D72-1D4C5E7B7D7A%7D.png">
-    <img src="https://raw.githubusercontent.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/main/images/%7B3C7D2E19-2C7A-4F38-8D72-1D4C5E7B7D7A%7D.png" alt="Image 2" width="400" height="600">
-</a>
-
-### Image 3
-<a href="https://github.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/blob/main/images/%7B8D7C7B73-3B1C-4B9D-8B7C-3C9E7F2D1D1C%7D.png">
-    <img src="https://raw.githubusercontent.com/belajdel/Breast-Cancer-Dignosis-Machine-Learning-Project-/main/images/%7B8D7C7B73-3B1C-4B9D-8B7C-3C9E7F2D1D1C%7D.png" alt="Image 3" width="400" height="600">
-</a>
 ## ✨ Features
 
 -   **Exploratory Data Analysis (EDA):** Interactive tools to explore the dataset, including feature distributions, descriptive statistics, and a correlation heatmap.
